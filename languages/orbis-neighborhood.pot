@@ -1,0 +1,97 @@
+# Copyright (C) 2016 Pronamic
+# This file is distributed under the Copyright (c) Pronamic.
+msgid ""
+msgstr ""
+"Project-Id-Version: Orbis Neighborhood 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/orbis-neighborhood\n"
+"POT-Creation-Date: 2016-12-17 13:00:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: classes/class-plugin.php:41
+msgid "Price"
+msgstr ""
+
+#: classes/class-plugin.php:63
+msgid "Is Member"
+msgstr ""
+
+#: classes/class-plugin.php:97
+msgid "Houses"
+msgstr ""
+
+#: classes/class-plugin.php:109 classes/class-plugin.php:256
+msgid "Group"
+msgstr ""
+
+#: classes/class-plugin.php:121 classes/class-plugin.php:265
+msgid "Payment Method"
+msgstr ""
+
+#: classes/class-plugin.php:133 classes/class-plugin.php:274
+msgid "Contribution"
+msgstr ""
+
+#: classes/class-plugin.php:151
+msgid "Current"
+msgstr ""
+
+#: classes/class-plugin.php:162
+msgid "House Details"
+msgstr ""
+
+#: classes/class-plugin.php:245
+msgid "Address"
+msgstr ""
+
+#: classes/class-plugin.php:246
+msgid "Number"
+msgstr ""
+
+#: classes/class-plugin.php:249
+msgid "Member"
+msgstr ""
+
+#: classes/class-plugin.php:251
+msgid "House is member."
+msgstr ""
+
+#: classes/class-plugin.php:260
+msgid "- Select Group -"
+msgstr ""
+
+#: classes/class-plugin.php:269
+msgid "- Select Payment Method -"
+msgstr ""
+
+#: classes/class-plugin.php:278
+msgid "- Select Contribution -"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Orbis Neighborhood"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pronamic.eu/plugins/orbis-neighborhood/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Orbis Neighborhood plugin extends your Orbis environment with the "
+"option to manage a neighborhood."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pronamic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pronamic.eu/"
+msgstr ""

@@ -1,0 +1,102 @@
+# Copyright (C) 2016 Pronamic
+# This file is distributed under the Copyright (c) Pronamic.
+msgid ""
+msgstr ""
+"Project-Id-Version: Orbis Neighborhood\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/orbis-"
+"neighborhood\n"
+"POT-Creation-Date: 2016-12-17 13:00:12+00:00\n"
+"PO-Revision-Date: 2016-12-17 14:03+0100\n"
+"Last-Translator: Remco Tolsma <info@remcotolsma.nl>\n"
+"Language-Team: Pronamic <info@pronamic.eu>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: classes/class-plugin.php:41
+msgid "Price"
+msgstr "Prijs"
+
+#: classes/class-plugin.php:63
+msgid "Is Member"
+msgstr "Is lid"
+
+#: classes/class-plugin.php:97
+msgid "Houses"
+msgstr "Huizen"
+
+#: classes/class-plugin.php:109 classes/class-plugin.php:256
+msgid "Group"
+msgstr "Groep"
+
+#: classes/class-plugin.php:121 classes/class-plugin.php:265
+msgid "Payment Method"
+msgstr "Betaalmethode"
+
+#: classes/class-plugin.php:133 classes/class-plugin.php:274
+msgid "Contribution"
+msgstr "Contributie"
+
+#: classes/class-plugin.php:151
+msgid "Current"
+msgstr "Huidige"
+
+#: classes/class-plugin.php:162
+msgid "House Details"
+msgstr "Huis details"
+
+#: classes/class-plugin.php:245
+msgid "Address"
+msgstr "Adres"
+
+#: classes/class-plugin.php:246
+msgid "Number"
+msgstr "Nummer"
+
+#: classes/class-plugin.php:249
+msgid "Member"
+msgstr "Lid"
+
+#: classes/class-plugin.php:251
+msgid "House is member."
+msgstr "Huis is lid"
+
+#: classes/class-plugin.php:260
+msgid "- Select Group -"
+msgstr "- Selecteer groep -"
+
+#: classes/class-plugin.php:269
+msgid "- Select Payment Method -"
+msgstr "- Selecteer betaalmethode -"
+
+#: classes/class-plugin.php:278
+msgid "- Select Contribution -"
+msgstr "- Select contributie -"
+
+#. Plugin Name of the plugin/theme
+msgid "Orbis Neighborhood"
+msgstr "Orbis Neighborhood"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pronamic.eu/plugins/orbis-neighborhood/"
+msgstr "https://www.pronamic.eu/plugins/orbis-neighborhood/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Orbis Neighborhood plugin extends your Orbis environment with the option "
+"to manage a neighborhood."
+msgstr ""
+"The Orbis Neighborhood plugin extends your Orbis environment with the option "
+"to manage a neighborhood."
+
+#. Author of the plugin/theme
+msgid "Pronamic"
+msgstr "Pronamic"
+
+#. Author URI of the plugin/theme
+msgid "https://www.pronamic.eu/"
+msgstr "https://www.pronamic.nl/"
