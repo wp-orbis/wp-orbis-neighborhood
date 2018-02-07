@@ -38,7 +38,7 @@ class Orbis_Neighborhood_Plugin extends Orbis_Plugin {
 		$price = get_term_meta( absint( $term->term_id ), 'price', true );
 ?>
 		<tr class="form-field term-price-wrap">
-			<th scope="row"><label for="price"><?php _e( 'Price', 'orbis-neighborhood' ); ?></label></th>
+			<th scope="row"><label for="price"><?php esc_html_e( 'Price', 'orbis-neighborhood' ); ?></label></th>
 			<td><input name="price" id="price" type="text" value="<?php echo esc_attr( $price ); ?>" size="40" />
 			</td>
 
@@ -176,7 +176,7 @@ class Orbis_Neighborhood_Plugin extends Orbis_Plugin {
 					<tr>
 						<th scope="row">
 							<label for="<?php echo esc_attr( $meta_key ); ?>">
-								<?php 
+								<?php
 
 								if ( is_array( $label ) ) {
 									echo esc_html( $label['label'] );
@@ -245,11 +245,11 @@ class Orbis_Neighborhood_Plugin extends Orbis_Plugin {
 		return array(
 			'_house_address' => __( 'Address', 'orbis-neighborhood' ),
 			'_house_number'  => __( 'Number', 'orbis-neighborhood' ),
-			'_house_is_member' =>  array(
+			'_house_is_member' => array(
 				'id'          => '_house_is_member',
 				'label'       => __( 'Member', 'orbis-neighborhood' ),
 				'type'        => 'checkbox',
-				'description' => __(  'House is member.', 'orbis-neighborhood' ),
+				'description' => __( 'House is member.', 'orbis-neighborhood' ),
 				'meta_key'    => '_house_is_member',
 			),
 			'house_group'    => array(
@@ -297,7 +297,7 @@ class Orbis_Neighborhood_Plugin extends Orbis_Plugin {
 
 		check_admin_referer( 'save_house_details', 'save_house_details_nonce' );
 
-		if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE )  {
+		if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE ) {
 			return $post_id;
 		}
 
