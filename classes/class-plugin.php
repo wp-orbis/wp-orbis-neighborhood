@@ -144,7 +144,6 @@ class Orbis_Neighborhood_Plugin extends Orbis_Plugin {
 			'name'         => 'orbis_persons_to_houses',
 			'from'         => 'orbis_person',
 			'to'           => 'orbis_house',
-			//'cardinality'  => 'many-to-one',
 			'admin_column' => 'any',
 			'fields'       => array(
 				'current' => array(
